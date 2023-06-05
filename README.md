@@ -1,7 +1,7 @@
 # url_short
 
 This is a simple URL shortener application with a graphical user interface (GUI). 
-It allows users to enter a any URL and generate a short URL using different shortening services.
+It allows users to enter  any URL and generate a short URL using different shortening services.
 
 ## Requirements
 - Python 3.xx
@@ -39,4 +39,4 @@ Contributing:
 - Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue on the GitHub repository.
 
 ##Contact
-For any inquiries or additional information, please contact [koushik.yeruva02@gmail.com].
+- For any inquiries or additional information, please contact [koushik.yeruva02@gmail.com].
