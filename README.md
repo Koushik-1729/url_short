@@ -72,9 +72,9 @@ Usage:
      shortened URL.
 
    - The API will redirect you to the original URL.
-   
+
 Contributing:
 - Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue on the GitHub repository.
 
-##Contact
+### Contact
 - For any inquiries or additional information, please contact [koushik.yeruva02@gmail.com].
